@@ -1,0 +1,608 @@
+{
+  "pokemon": {
+	"1": {
+	  "charge_move": "Power Whip", 
+	  "quick_move": "Vine Whip" 
+	}, 
+	"10": {
+	  "charge_move": "Struggle", 
+	  "quick_move": "Bug Bite" 
+	}, 
+	"100": {
+	  "charge_move": "Thunderbolt", 
+	  "quick_move": "Spark" 
+	}, 
+	"101": {
+	  "charge_move": "Thunderbolt", 
+	  "quick_move": "Spark" 
+	}, 
+	"102": {
+	  "charge_move": "Psychic", 
+	  "quick_move": "Confusion" 
+	}, 
+	"103": {
+	  "charge_move": "Solar Beam", 
+	  "quick_move": "Zen Headbutt" 
+	}, 
+	"104": {
+	  "charge_move": "Bone Club", 
+	  "quick_move": "Mud Slap" 
+	}, 
+	"105": {
+	  "charge_move": "Earthquake", 
+	  "quick_move": "Mud Slap" 
+	}, 
+	"106": {
+	  "charge_move": "Stone Edge", 
+	  "quick_move": "Low Kick" 	
+	}, 
+	"107": {
+	  "charge_move": "Brick Break", 
+	  "quick_move": "Rock Smash" 
+	}, 
+	"108": {
+	  "charge_move": "Hyper Beam", 
+	  "quick_move": "Zen Headbutt" 
+	}, 
+	"109": {
+	  "charge_move": "Sludge Bomb", 
+	  "quick_move": "Acid" 
+	}, 
+	"11": {
+	  "charge_move": "Struggle", 
+	  "quick_move": "Bug Bite" 
+	}, 
+	"110": {
+	  "charge_move": "Sludge Bomb", 
+	  "quick_move": "Acid" 
+	}, 
+	"111": {
+	  "charge_move": "Stomp", 
+	  "quick_move": "Mud Slap" 
+	}, 
+	"112": {
+	  "charge_move": "Stone Edge", 
+	  "quick_move": "Mud Slap" 
+	}, 
+	"113": {
+	  "charge_move": "Psychic", 
+	  "quick_move": "Pound" 
+	}, 
+	"114": {
+	  "charge_move": "Solar Beam", 
+	  "quick_move": "Vine Whip" 
+	}, 
+	"115": {
+	  "charge_move": "Earthquake", 
+	  "quick_move": "Mud Slap" 
+	}, 
+	"116": {
+	  "charge_move": "Dragon Pulse", 
+	  "quick_move": "Water Gun" 
+	}, 
+	"117": {
+	  "charge_move": "Hydro Pump", 
+	  "quick_move": "Water Gun" 
+	}, 
+	"118": {
+	  "charge_move": "Aqua Tail", 
+	  "quick_move": "Mud Shot" 
+	}, 
+	"119": {
+	  "charge_move": "Megahorn", 
+	  "quick_move": "Poison Jab" 
+	}, 
+	"12": {
+	  "charge_move": "Bug Buzz", 
+	  "quick_move": "Bug Bite" 
+	}, 
+	"120": {
+	  "charge_move": "Power Gem", 
+	  "quick_move": "Water Gun" 
+	}, 
+	"121": {
+	  "charge_move": "Hydro Pump", 
+	  "quick_move": "Water Gun"
+	}, 
+	"122": {
+	  "charge_move": "Psychic", 
+	  "quick_move": "Zen Headbutt" 
+	}, 
+	"123": {
+	  "charge_move": "Bug Buzz", 
+	  "quick_move": "Steel Wing" 
+	}, 
+	"124": {
+	  "charge_move": "Psyshock", 
+	  "quick_move": "Frost Breath" 
+	}, 
+	"125": {
+	  "charge_move": "Thunder", 
+	  "quick_move": "Thunder Shock" 
+	}, 
+	"126": {
+	  "charge_move": "Fire Blast", 
+	  "quick_move": "Ember" 
+	}, 
+	"127": {
+	  "charge_move": "X Scissor", 
+	  "quick_move": "Rock Smash" 
+	}, 
+	"128": {
+	  "charge_move": "Earthquake", 
+	  "quick_move": "Tackle" 
+	}, 
+	"129": {
+	  "charge_move": "Struggle", 
+	  "quick_move": "Splash" 
+	}, 
+	"13": {
+	  "charge_move": "Struggle", 
+	  "quick_move": "Bug Bite" 
+	}, 
+	"130": {
+	  "charge_move": "Hydro Pump", 
+	  "quick_move": "Dragon Breath / Bite" 
+	}, 
+	"131": {
+	  "charge_move": "Blizzard", 
+	  "quick_move": "Frost Breath" 
+	}, 
+	"132": {
+	  "charge_move": "Struggle", 
+	  "quick_move": "Pound" 
+	}, 
+	"133": {
+	  "charge_move": "Body Slam", 
+	  "quick_move": "Tackle" 
+	}, 
+	"134": {
+	  "charge_move": "Hydro Pump", 
+	  "quick_move": "Water Gun" 
+	}, 
+	"135": {
+	  "charge_move": "Thunder", 
+	  "quick_move": "Thunder Shock" 
+	}, 
+	"136": {
+	  "charge_move": "Fire Blast", 
+	  "quick_move": "Ember" 
+	}, 
+	"137": {
+	  "charge_move": "Discharge", 
+	  "quick_move": "Tackle" 
+	}, 
+	"138": {
+	  "charge_move": "Ancient Power", 
+	  "quick_move": "Water Gun" 
+	}, 
+	"139": {
+	  "charge_move": "Hydro Pump", 
+	  "quick_move": "Water Gun" 
+	}, 
+	"14": {
+	  "charge_move": "Struggle", 
+	  "quick_move": "Bug Bite" 
+	}, 
+	"140": {
+	  "charge_move": "Aqua Jet", 
+	  "quick_move": "Scratch" 
+	}, 
+	"141": {
+	  "charge_move": "Stone Edge", 
+	  "quick_move": "Mud Shot" 
+	}, 
+	"142": {
+	  "charge_move": "Hyper Beam", 
+	  "quick_move": "Bite" 
+	}, 
+	"143": {
+	  "charge_move": "Body Slam", 
+	  "quick_move": "Zen Headbutt" 
+	}, 
+	"144": {
+	  "charge_move": "?", 
+	  "quick_move": "?" 
+	}, 
+	"145": {
+	  "charge_move": "?", 
+	  "quick_move": "?" 
+	}, 
+	"146": {
+	  "charge_move": "?", 
+	  "quick_move": "?" 
+	}, 
+	"147": {
+	  "charge_move": "Aqua Tail", 
+	  "quick_move": "Dragon Breath" 
+	}, 
+	"148": {
+	  "charge_move": "Dragon Pulse", 
+	  "quick_move": "Dragon Breath" 
+	}, 
+	"149": {
+	  "charge_move": "Dragon Claw", 
+	  "quick_move": "Dragon Breath" 
+	}, 
+	"15": {
+	  "charge_move": "Sludge Bomb", 
+	  "quick_move": "Bug Bite" 
+	}, 
+	"150": {
+	  "charge_move": "?", 
+	  "quick_move": "?" 
+	}, 
+	"151": {
+	  "charge_move": "?", 
+	  "quick_move": "?" 
+	}, 
+	"16": {
+	  "charge_move": "Aerial Ace", 
+	  "quick_move": "Tackle" 
+	}, 
+	"17": {
+	  "charge_move": "Aerial Ace", 
+	  "quick_move": "Wing Attack" 
+	}, 
+	"18": {
+	  "charge_move": "Aerial Ace", 
+	  "quick_move": "Wing Attack" 
+	}, 
+	"19": {
+	  "charge_move": "Body Slam", 
+	  "quick_move": "Tackle" 
+	}, 
+	"2": {
+	  "charge_move": "Solar Whip", 
+	  "quick_move": "Vine Whip" 
+	}, 
+	"20": {
+	  "charge_move": "Hyper Beam", 
+	  "quick_move": "Bite" 
+	}, 
+	"21": {
+	  "charge_move": "Aerial Ace", 
+	  "quick_move": "Peck" 
+	}, 
+	"22": {
+	  "charge_move": "Aerial Ace", 
+	  "quick_move": "Steel Wing" 
+	}, 
+	"23": {
+	  "charge_move": "Gunk Shot", 
+	  "quick_move": "Poison Sting" 
+	}, 
+	"24": {
+	  "charge_move": "Gunk Shot", 
+	  "quick_move": "Bite" 
+	}, 
+	"25": {
+	  "charge_move": "Thunder", 
+	  "quick_move": "Thunder Shock" 
+	}, 
+	"26": {
+	  "charge_move": "Thunder", 
+	  "quick_move": "Spark" 
+	}, 
+	"27": {
+	  "charge_move": "Dig", 
+	  "quick_move": "Mud Shot" 
+	}, 
+	"28": {
+	  "charge_move": "Earthquake", 
+	  "quick_move": "Mud Shot" 
+	}, 
+	"29": {
+	  "charge_move": "Body Slam", 
+	  "quick_move": "Poison Sting" 
+	}, 
+	"3": {
+	  "charge_move": "Solar Whip", 
+	  "quick_move": "Vine Whip" 
+	}, 
+	"30": {
+	  "charge_move": "Sludge Bomb", 
+	  "quick_move": "Poison Sting" 
+	}, 
+	"31": {
+	  "charge_move": "Earthquake", 
+	  "quick_move": "Poison Jab" 
+	}, 
+	"32": {
+	  "charge_move": "Body Slam", 
+	  "quick_move": "Poison Sting" 
+	}, 
+	"33": {
+	  "charge_move": "Sludge Bomb", 
+	  "quick_move": "Poison Jab" 
+	}, 
+	"34": {
+	  "charge_move": "Earthquake", 
+	  "quick_move": "Poison Jab" 
+	}, 
+	"35": {
+	  "charge_move": "Moonblast", 
+	  "quick_move": "Pound" 
+	}, 
+	"36": {
+	  "charge_move": "Moonblast", 
+	  "quick_move": "Pound" 
+	}, 
+	"37": {
+	  "charge_move": "Body Slam", 
+	  "quick_move": "Ember" 
+	}, 
+	"38": {
+	  "charge_move": "Fire Blast", 
+	  "quick_move": "Ember" 
+	}, 
+	"39": {
+	  "charge_move": "Body Slam", 
+	  "quick_move": "Pound" 
+	}, 
+	"4": {
+	  "charge_move": "Flamethrower", 
+	  "quick_move": "Scratch"
+	}, 
+	"40": {
+	  "charge_move": "Hyper Beam", 
+	  "quick_move": "Pound" 
+	}, 
+	"41": {
+	  "charge_move": "Sludge Bomb", 
+	  "quick_move": "Bite" 
+	}, 
+	"42": {
+	  "charge_move": "Poison Fang", 
+	  "quick_move": "Wing Attack" 
+	}, 
+	"43": {
+	  "charge_move": "Sludge Bomb", 
+	  "quick_move": "Razor Leaf" 
+	}, 
+	"44": {
+	  "charge_move": "Petal Blizzard", 
+	  "quick_move": "Razor Leaf" 
+	}, 
+	"45": {
+	  "charge_move": "Solar Beam", 
+	  "quick_move": "Razor Leaf" 
+	}, 
+	"46": {
+	  "charge_move": "X Scissor / See Bomb", 
+	  "quick_move": "Bug Bite" 
+	}, 
+	"47": {
+	  "charge_move": "Solar Beam", 
+	  "quick_move": "Bug Bite" 
+	}, 
+	"48": {
+	  "charge_move": "Signal Beam", 
+	  "quick_move": "Bug Bite" 
+	}, 
+	"49": {
+	  "charge_move": "Bug Buzz", 
+	  "quick_move": "Bug Bite" 
+	}, 
+	"5": {
+	  "charge_move": "Flamethrower", 
+	  "quick_move": "Scratch" 
+	}, 
+	"50": {
+	  "charge_move": "Dig", 
+	  "quick_move": "Mud Shot" 
+	}, 
+	"51": {
+	  "charge_move": "Stone Edge", 
+	  "quick_move": "Mud Shot" 
+	}, 
+	"52": {
+	  "charge_move": "Body Slam", 
+	  "quick_move": "Scratch" 
+	}, 
+	"53": {
+	  "charge_move": "Play Rough", 
+	  "quick_move": "Scratch" 
+	}, 
+	"54": {
+	  "charge_move": "Cross Chop", 
+	  "quick_move": "Water Gun" 
+	}, 
+	"55": {
+	  "charge_move": "Hydro Pump", 
+	  "quick_move": "Water Gun" 
+	}, 
+	"56": {
+	  "charge_move": "Body Slam", 
+	  "quick_move": "Scratch" 
+	}, 
+	"57": {
+	  "charge_move": "Cross Chop", 
+	  "quick_move": "Low Kick" 
+	}, 
+	"58": {
+	  "charge_move": "Body Slam", 
+	  "quick_move": "Bite" 
+	}, 
+	"59": {
+	  "charge_move": "Fire Blast", 
+	  "quick_move": "Fire Fang" 
+	}, 
+	"6": {
+	  "charge_move": "Fire Blast", 
+	  "quick_move": "Wing Attack" 
+	}, 
+	"60": {
+	  "charge_move": "Body Slam", 
+	  "quick_move": "Bubble" 
+	}, 
+	"61": {
+	  "charge_move": "Mud Bomb", 
+	  "quick_move": "Bubble" 
+	}, 
+	"62": {
+	  "charge_move": "Hydro Pump", 
+	  "quick_move": "Bubble" 
+	}, 
+	"63": {
+	  "charge_move": "Psyshock", 
+	  "quick_move": "Zen Headbutt" 
+	}, 
+	"64": {
+	  "charge_move": "Shadow Ball", 
+	  "quick_move": "Psycho Cut" 
+	}, 
+	"65": {
+	  "charge_move": "Psychic", 
+	  "quick_move": "Psycho Cut" 
+	}, 
+	"66": {
+	  "charge_move": "Cross Chop", 
+	  "quick_move": "Low Kick" 
+	}, 
+	"67": {
+	  "charge_move": "Cross Chop", 
+	  "quick_move": "Low Kick" 
+	}, 
+	"68": {
+	  "charge_move": "Cross Chop", 
+	  "quick_move": "Karate Chop" 
+	}, 
+	"69": {
+	  "charge_move": "Power Whip", 
+	  "quick_move": "Vine Whip" 
+	}, 
+	"7": {
+	  "charge_move": "Aqua Tail", 
+	  "quick_move": "Bubble" 
+	}, 
+	"70": {
+	  "charge_move": "Power Whip", 
+	  "quick_move": "Razor Leaf" 
+	}, 
+	"71": {
+	  "charge_move": "Solar Beam", 
+	  "quick_move": "Razor Leaf" 
+	}, 
+	"72": {
+	  "charge_move": "Water Pulse", 
+	  "quick_move": "Bubble" 
+	}, 
+	"73": {
+	  "charge_move": "Hydro Pump", 
+	  "quick_move": "Poison Jab" 
+	}, 
+	"74": {
+	  "charge_move": "Dig", 
+	  "quick_move": "Rock Throw" 
+	}, 
+	"75": {
+	  "charge_move": "Stone Edge", 
+	  "quick_move": "Mud Shot" 
+	}, 
+	"76": {
+	  "charge_move": "Stone Edge", 
+	  "quick_move": "Mud Shot" 
+	}, 
+	"77": {
+	  "charge_move": "Fire Blast", 
+	  "quick_move": "Ember" 
+	}, 
+	"78": {
+	  "charge_move": "Fire Blast", 
+	  "quick_move": "Ember" 
+	}, 
+	"79": {
+	  "charge_move": "Psychic", 
+	  "quick_move": "Water Gun" 
+	}, 
+	"8": {
+	  "charge_move": "Hydro Pump", 
+	  "quick_move": "Water Gun" 
+	}, 
+	"80": {
+	  "charge_move": "Psychic", 
+	  "quick_move": "Water Gun" 
+	}, 
+	"81": {
+	  "charge_move": "Thunderbolt", 
+	  "quick_move": "Spark" 
+	}, 
+	"82": {
+	  "charge_move": "Flash Cannon", 
+	  "quick_move": "Spark" 
+	}, 
+	"83": {
+	"charge_move": "Leaf Blade", 
+	  "quick_move": "Cut"
+	}, 
+	"84": {
+	  "charge_move": "Aerial Ace", 
+	  "quick_move": "Peck" 
+	}, 
+	"85": {
+	  "charge_move": "Drill Peck", 
+	  "quick_move": "Feint Attack" 
+	}, 
+	"86": {
+	  "charge_move": "Aqua Tail", 
+	  "quick_move": "Water Gun" 
+	}, 
+	"87": {
+	  "charge_move": "Blizzard", 
+	  "quick_move": "Frost Breath" 
+	}, 
+	"88": {
+	  "charge_move": "Sludge Bomb", 
+	  "quick_move": "Acid" 
+	}, 
+	"89": {
+	  "charge_move": "Gunk Shot", 
+	  "quick_move": "Poison Jab" 
+	}, 
+	"9": {
+	  "charge_move": "Hydro Pump", 
+	  "quick_move": "Water Gun" 
+	}, 
+	"90": {
+	  "charge_move": "Water Pulse", 
+	  "quick_move": "Tackle" 
+	}, 
+	"91": {
+	  "charge_move": "Blizzard", 
+	  "quick_move": "Frost Breath" 
+	}, 
+	"92": {
+	  "charge_move": "Sludge Bomb", 
+	  "quick_move": "Lick" 
+	}, 
+	"93": {
+	  "charge_move": "Sludge Bomb", 
+	  "quick_move": "Shadow Claw" 
+	}, 
+	"94": {
+	  "charge_move": "Sludge Bomb", 
+	  "quick_move": "Shadow Claw" 
+	}, 
+	"95": {
+	  "charge_move": "Stone Edge", 
+	  "quick_move": "Rock Throw" 
+	}, 
+	"96": {
+	  "charge_move": "Psychic", 
+	  "quick_move": "Pound" 
+	}, 
+	"97": {
+	  "charge_move": "Psychic", 
+	  "quick_move": "Zen Headbutt" 
+	}, 
+	"98": {
+	  "charge_move": "Water Pulse", 
+	  "quick_move": "Bubble" 
+	}, 
+	"99": {
+	  "charge_move": "X Scissor", 
+	  "quick_move": "Metal Claw"
+	}
+  }
+}

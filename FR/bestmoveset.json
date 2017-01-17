@@ -1,0 +1,608 @@
+{
+  "pokemon": {
+	"1": {
+	  "charge_move": "Megafouet", 
+	  "quick_move": "Fouet Lianes" 
+	}, 
+	"10": {
+	  "charge_move": "Lutte", 
+	  "quick_move": "Piqure" 
+	}, 
+	"100": {
+	  "charge_move": "Tonnerre", 
+	  "quick_move": "Etincelle" 
+	}, 
+	"101": {
+	  "charge_move": "Tonnerre", 
+	  "quick_move": "Etincelle" 
+	}, 
+	"102": {
+	  "charge_move": "Psyko", 
+	  "quick_move": "Confusion" 
+	}, 
+	"103": {
+	  "charge_move": "Lance-Soleil", 
+	  "quick_move": "Psykoud'Boul" 
+	}, 
+	"104": {
+	  "charge_move": "Massd'Os", 
+	  "quick_move": "Coud'Boue" 
+	}, 
+	"105": {
+	  "charge_move": "Seisme", 
+	  "quick_move": "Coud'Boue" 
+	}, 
+	"106": {
+	  "charge_move": "Lame de Roc", 
+	  "quick_move": "Balayage" 	
+	}, 
+	"107": {
+	  "charge_move": "Casse-Brique", 
+	  "quick_move": "Eclate-Roc" 
+	}, 
+	"108": {
+	  "charge_move": "Ultralaser", 
+	  "quick_move": "Psykoud'Boul" 
+	}, 
+	"109": {
+	  "charge_move": "Bomb-Beurk", 
+	  "quick_move": "Acide" 
+	}, 
+	"11": {
+	  "charge_move": "Lutte", 
+	  "quick_move": "Piqure" 
+	}, 
+	"110": {
+	  "charge_move": "Bomb-Beurk", 
+	  "quick_move": "Acide" 
+	}, 
+	"111": {
+	  "charge_move": "Ecrasement", 
+	  "quick_move": "Coud'Boue" 
+	}, 
+	"112": {
+	  "charge_move": "Lame de Roc", 
+	  "quick_move": "Coud'Boue" 
+	}, 
+	"113": {
+	  "charge_move": "Psyko", 
+	  "quick_move": "Ecras'Face" 
+	}, 
+	"114": {
+	  "charge_move": "Lance-Soleil", 
+	  "quick_move": "Fouet Lianes" 
+	}, 
+	"115": {
+	  "charge_move": "Seisme", 
+	  "quick_move": "Coud'Boue" 
+	}, 
+	"116": {
+	  "charge_move": "Dracochoc", 
+	  "quick_move": "Pistolet a O" 
+	}, 
+	"117": {
+	  "charge_move": "Hydrocanon", 
+	  "quick_move": "Pistolet a O" 
+	}, 
+	"118": {
+	  "charge_move": "Hydroqueue", 
+	  "quick_move": "Tir de Boue" 
+	}, 
+	"119": {
+	  "charge_move": "Megacorne", 
+	  "quick_move": "Direct Toxik" 
+	}, 
+	"12": {
+	  "charge_move": "Bourdon", 
+	  "quick_move": "Piqure" 
+	}, 
+	"120": {
+	  "charge_move": "Rayon Gemme", 
+	  "quick_move": "Pistolet a O" 
+	}, 
+	"121": {
+	  "charge_move": "Hydrocanon", 
+	  "quick_move": "Pistolet a O"
+	}, 
+	"122": {
+	  "charge_move": "Psyko", 
+	  "quick_move": "Psykoud'Boul" 
+	}, 
+	"123": {
+	  "charge_move": "Bourdon", 
+	  "quick_move": "Aile d'Acier" 
+	}, 
+	"124": {
+	  "charge_move": "Choc Psy", 
+	  "quick_move": "Souffle Glace" 
+	}, 
+	"125": {
+	  "charge_move": "Tonnerre", 
+	  "quick_move": "Eclair" 
+	}, 
+	"126": {
+	  "charge_move": "Deflagration", 
+	  "quick_move": "Flammeche" 
+	}, 
+	"127": {
+	  "charge_move": "Plaie-Croix", 
+	  "quick_move": "Eclate-Roc" 
+	}, 
+	"128": {
+	  "charge_move": "Seisme", 
+	  "quick_move": "Charge" 
+	}, 
+	"129": {
+	  "charge_move": "Lutte", 
+	  "quick_move": "Trempette" 
+	}, 
+	"13": {
+	  "charge_move": "Lutte", 
+	  "quick_move": "Piqure" 
+	}, 
+	"130": {
+	  "charge_move": "Hydrocanon", 
+	  "quick_move": "Dracosouffle" 
+	}, 
+	"131": {
+	  "charge_move": "Blizzard", 
+	  "quick_move": "Souffle Glace" 
+	}, 
+	"132": {
+	  "charge_move": "Lutte", 
+	  "quick_move": "Ecras'Face" 
+	}, 
+	"133": {
+	  "charge_move": "Plaquage", 
+	  "quick_move": "Charge" 
+	}, 
+	"134": {
+	  "charge_move": "Hydrocanon", 
+	  "quick_move": "Pistolet a O" 
+	}, 
+	"135": {
+	  "charge_move": "Tonnerre", 
+	  "quick_move": "Eclair" 
+	}, 
+	"136": {
+	  "charge_move": "Deflagration", 
+	  "quick_move": "Flammeche" 
+	}, 
+	"137": {
+	  "charge_move": "Coup d'Jus", 
+	  "quick_move": "Charge" 
+	}, 
+	"138": {
+	  "charge_move": "Pouvoir Antique", 
+	  "quick_move": "Pistolet a O" 
+	}, 
+	"139": {
+	  "charge_move": "Hydrocanon", 
+	  "quick_move": "Pistolet a O" 
+	}, 
+	"14": {
+	  "charge_move": "Lutte", 
+	  "quick_move": "Piqure" 
+	}, 
+	"140": {
+	  "charge_move": "Aqua-Jet", 
+	  "quick_move": "Griffe" 
+	}, 
+	"141": {
+	  "charge_move": "Lame de Roc", 
+	  "quick_move": "Tir de Boue" 
+	}, 
+	"142": {
+	  "charge_move": "Ultralaser", 
+	  "quick_move": "Morsure" 
+	}, 
+	"143": {
+	  "charge_move": "Plaquage", 
+	  "quick_move": "Psykoud'Boul" 
+	}, 
+	"144": {
+	  "charge_move": "?", 
+	  "quick_move": "?" 
+	}, 
+	"145": {
+	  "charge_move": "?", 
+	  "quick_move": "?" 
+	}, 
+	"146": {
+	  "charge_move": "?", 
+	  "quick_move": "?" 
+	}, 
+	"147": {
+	  "charge_move": "Hydroqueue", 
+	  "quick_move": "Dracosouffle" 
+	}, 
+	"148": {
+	  "charge_move": "Dracochoc", 
+	  "quick_move": "Dracosouffle" 
+	}, 
+	"149": {
+	  "charge_move": "Dracogriffe", 
+	  "quick_move": "Dracosouffle" 
+	}, 
+	"15": {
+	  "charge_move": "Bomb-Beurk", 
+	  "quick_move": "Piqure" 
+	}, 
+	"150": {
+	  "charge_move": "?", 
+	  "quick_move": "?" 
+	}, 
+	"151": {
+	  "charge_move": "?", 
+	  "quick_move": "?" 
+	}, 
+	"16": {
+	  "charge_move": "Aeropique", 
+	  "quick_move": "Charge" 
+	}, 
+	"17": {
+	  "charge_move": "Aeropique", 
+	  "quick_move": "Cru-Aile" 
+	}, 
+	"18": {
+	  "charge_move": "Aeropique", 
+	  "quick_move": "Cru-Aile" 
+	}, 
+	"19": {
+	  "charge_move": "Plaquage", 
+	  "quick_move": "Charge" 
+	}, 
+	"2": {
+	  "charge_move": "Lance-Soleil", 
+	  "quick_move": "Fouet Lianes" 
+	}, 
+	"20": {
+	  "charge_move": "Ultralaser", 
+	  "quick_move": "Morsure" 
+	}, 
+	"21": {
+	  "charge_move": "Aeropique", 
+	  "quick_move": "Picpic" 
+	}, 
+	"22": {
+	  "charge_move": "Aeropique", 
+	  "quick_move": "Aile d'Acier" 
+	}, 
+	"23": {
+	  "charge_move": "Detricanon", 
+	  "quick_move": "Dard-Venin" 
+	}, 
+	"24": {
+	  "charge_move": "Detricanon", 
+	  "quick_move": "Morsure" 
+	}, 
+	"25": {
+	  "charge_move": "Tonnerre", 
+	  "quick_move": "Eclair" 
+	}, 
+	"26": {
+	  "charge_move": "Tonnerre", 
+	  "quick_move": "Etincelle" 
+	}, 
+	"27": {
+	  "charge_move": "Tunnel", 
+	  "quick_move": "Tir de Boue" 
+	}, 
+	"28": {
+	  "charge_move": "Seisme", 
+	  "quick_move": "Tir de Boue" 
+	}, 
+	"29": {
+	  "charge_move": "Plaquage", 
+	  "quick_move": "Dard-Venin" 
+	}, 
+	"3": {
+	  "charge_move": "Lance-Soleil", 
+	  "quick_move": "Fouet Lianes" 
+	}, 
+	"30": {
+	  "charge_move": "Bomb-Beurk", 
+	  "quick_move": "Dard-Venin" 
+	}, 
+	"31": {
+	  "charge_move": "Seisme", 
+	  "quick_move": "Direct Toxik" 
+	}, 
+	"32": {
+	  "charge_move": "Plaquage", 
+	  "quick_move": "Dard-Venin" 
+	}, 
+	"33": {
+	  "charge_move": "Bomb-Beurk", 
+	  "quick_move": "Direct Toxik" 
+	}, 
+	"34": {
+	  "charge_move": "Seisme", 
+	  "quick_move": "Direct Toxik" 
+	}, 
+	"35": {
+	  "charge_move": "Pouvoir Lunaire", 
+	  "quick_move": "Ecras'Face" 
+	}, 
+	"36": {
+	  "charge_move": "Pouvoir Lunaire", 
+	  "quick_move": "Ecras'Face" 
+	}, 
+	"37": {
+	  "charge_move": "Plaquage", 
+	  "quick_move": "Flammeche" 
+	}, 
+	"38": {
+	  "charge_move": "Deflagration", 
+	  "quick_move": "Flammeche" 
+	}, 
+	"39": {
+	  "charge_move": "Plaquage", 
+	  "quick_move": "Ecras'Face" 
+	}, 
+	"4": {
+	  "charge_move": "Lance-Flammes", 
+	  "quick_move": "Griffe"
+	}, 
+	"40": {
+	  "charge_move": "Ultralaser", 
+	  "quick_move": "Ecras'Face" 
+	}, 
+	"41": {
+	  "charge_move": "Bomb-Beurk", 
+	  "quick_move": "Morsure" 
+	}, 
+	"42": {
+	  "charge_move": "Crochet Venin", 
+	  "quick_move": "Cru-Aile" 
+	}, 
+	"43": {
+	  "charge_move": "Bomb-Beurk", 
+	  "quick_move": "Tranch'Herbe" 
+	}, 
+	"44": {
+	  "charge_move": "Tempete Florale", 
+	  "quick_move": "Tranch'Herbe" 
+	}, 
+	"45": {
+	  "charge_move": "Lance-Soleil", 
+	  "quick_move": "Tranch'Herbe" 
+	}, 
+	"46": {
+	  "charge_move": "Plaie-Croix", 
+	  "quick_move": "Piqure" 
+	}, 
+	"47": {
+	  "charge_move": "Lance-Soleil", 
+	  "quick_move": "Piqure" 
+	}, 
+	"48": {
+	  "charge_move": "Rayon Signal", 
+	  "quick_move": "Piqure" 
+	}, 
+	"49": {
+	  "charge_move": "Bourdon", 
+	  "quick_move": "Piqure" 
+	}, 
+	"5": {
+	  "charge_move": "Lance-Flammes", 
+	  "quick_move": "Griffe" 
+	}, 
+	"50": {
+	  "charge_move": "Tunnel", 
+	  "quick_move": "Tir de Boue" 
+	}, 
+	"51": {
+	  "charge_move": "Lame de Roc", 
+	  "quick_move": "Tir de Boue" 
+	}, 
+	"52": {
+	  "charge_move": "Plaquage", 
+	  "quick_move": "Griffe" 
+	}, 
+	"53": {
+	  "charge_move": "Calinerie", 
+	  "quick_move": "Griffe" 
+	}, 
+	"54": {
+	  "charge_move": "Coup-Croix", 
+	  "quick_move": "Pistolet a O" 
+	}, 
+	"55": {
+	  "charge_move": "Hydrocanon", 
+	  "quick_move": "Pistolet a O" 
+	}, 
+	"56": {
+	  "charge_move": "Plaquage", 
+	  "quick_move": "Griffe" 
+	}, 
+	"57": {
+	  "charge_move": "Coup-Croix", 
+	  "quick_move": "Balayage" 
+	}, 
+	"58": {
+	  "charge_move": "Plaquage", 
+	  "quick_move": "Morsure" 
+	}, 
+	"59": {
+	  "charge_move": "Deflagration", 
+	  "quick_move": "Crocs Feu" 
+	}, 
+	"6": {
+	  "charge_move": "Deflagration", 
+	  "quick_move": "Cru-Aile" 
+	}, 
+	"60": {
+	  "charge_move": "Plaquage", 
+	  "quick_move": "Ecume" 
+	}, 
+	"61": {
+	  "charge_move": "Boue-Bombe", 
+	  "quick_move": "Ecume" 
+	}, 
+	"62": {
+	  "charge_move": "Hydrocanon", 
+	  "quick_move": "Ecume" 
+	}, 
+	"63": {
+	  "charge_move": "Choc Psy", 
+	  "quick_move": "Psykoud'Boul" 
+	}, 
+	"64": {
+	  "charge_move": "Ball Ombre", 
+	  "quick_move": "Coupe Psycho" 
+	}, 
+	"65": {
+	  "charge_move": "Psyko", 
+	  "quick_move": "Coupe Psycho" 
+	}, 
+	"66": {
+	  "charge_move": "Coup-Croix", 
+	  "quick_move": "Balayage" 
+	}, 
+	"67": {
+	  "charge_move": "Coup-Croix", 
+	  "quick_move": "Balayage" 
+	}, 
+	"68": {
+	  "charge_move": "Coup-Croix", 
+	  "quick_move": "Poing-Karate" 
+	}, 
+	"69": {
+	  "charge_move": "Megafouet", 
+	  "quick_move": "Fouet Lianes" 
+	}, 
+	"7": {
+	  "charge_move": "Hydroqueue", 
+	  "quick_move": "Ecume" 
+	}, 
+	"70": {
+	  "charge_move": "Megafouet", 
+	  "quick_move": "Tranch'Herbe" 
+	}, 
+	"71": {
+	  "charge_move": "Lance-Soleil", 
+	  "quick_move": "Tranch'Herbe" 
+	}, 
+	"72": {
+	  "charge_move": "Vibraqua", 
+	  "quick_move": "Ecume" 
+	}, 
+	"73": {
+	  "charge_move": "Hydrocanon", 
+	  "quick_move": "Direct Toxik" 
+	}, 
+	"74": {
+	  "charge_move": "Tunnel", 
+	  "quick_move": "Jet-Pierres" 
+	}, 
+	"75": {
+	  "charge_move": "Lame de Roc", 
+	  "quick_move": "Tir de Boue" 
+	}, 
+	"76": {
+	  "charge_move": "Lame de Roc", 
+	  "quick_move": "Tir de Boue" 
+	}, 
+	"77": {
+	  "charge_move": "Deflagration", 
+	  "quick_move": "Flammeche" 
+	}, 
+	"78": {
+	  "charge_move": "Deflagration", 
+	  "quick_move": "Flammeche" 
+	}, 
+	"79": {
+	  "charge_move": "Psyko", 
+	  "quick_move": "Pistolet a O" 
+	}, 
+	"8": {
+	  "charge_move": "Hydrocanon", 
+	  "quick_move": "Pistolet a O" 
+	}, 
+	"80": {
+	  "charge_move": "Psyko", 
+	  "quick_move": "Pistolet a O" 
+	}, 
+	"81": {
+	  "charge_move": "Tonnerre", 
+	  "quick_move": "Etincelle" 
+	}, 
+	"82": {
+	  "charge_move": "Luminocanon", 
+	  "quick_move": "Etincelle" 
+	}, 
+	"83": {
+	"charge_move": "Lame-Feuille", 
+	  "quick_move": "Coupe"
+	}, 
+	"84": {
+	  "charge_move": "Aeropique", 
+	  "quick_move": "Picpic" 
+	}, 
+	"85": {
+	  "charge_move": "Bec Vrille", 
+	  "quick_move": "Feinte" 
+	}, 
+	"86": {
+	  "charge_move": "Hydroqueue", 
+	  "quick_move": "Pistolet a O" 
+	}, 
+	"87": {
+	  "charge_move": "Blizzard", 
+	  "quick_move": "Souffle Glace" 
+	}, 
+	"88": {
+	  "charge_move": "Bomb-Beurk", 
+	  "quick_move": "Acide" 
+	}, 
+	"89": {
+	  "charge_move": "Detricanon", 
+	  "quick_move": "Direct Toxik" 
+	}, 
+	"9": {
+	  "charge_move": "Hydrocanon", 
+	  "quick_move": "Pistolet a O" 
+	}, 
+	"90": {
+	  "charge_move": "Vibraqua", 
+	  "quick_move": "Charge" 
+	}, 
+	"91": {
+	  "charge_move": "Blizzard", 
+	  "quick_move": "Souffle Glace" 
+	}, 
+	"92": {
+	  "charge_move": "Bomb-Beurk", 
+	  "quick_move": "Lechouille" 
+	}, 
+	"93": {
+	  "charge_move": "Bomb-Beurk", 
+	  "quick_move": "Griffe Ombre" 
+	}, 
+	"94": {
+	  "charge_move": "Bomb-Beurk", 
+	  "quick_move": "Griffe Ombre" 
+	}, 
+	"95": {
+	  "charge_move": "Lame de Roc", 
+	  "quick_move": "Jet-Pierres" 
+	}, 
+	"96": {
+	  "charge_move": "Psyko", 
+	  "quick_move": "Ecras'Face" 
+	}, 
+	"97": {
+	  "charge_move": "Psyko", 
+	  "quick_move": "Psykoud'Boul" 
+	}, 
+	"98": {
+	  "charge_move": "Vibraqua", 
+	  "quick_move": "Ecume" 
+	}, 
+	"99": {
+	  "charge_move": "Plaie-Croix", 
+	  "quick_move": "Griffe Acier"
+	}
+  }
+}
